@@ -1,0 +1,1 @@
+# landslide-susceptibilty-mapping-using-machine-learning
